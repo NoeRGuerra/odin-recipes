@@ -2,12 +2,24 @@ body{
     background-color: #fefae0;
 }
 
-.title{
+p, li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title,
+.header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #606c38;
     color: #fefae0;
+}
+
+.title{
     border: 10px solid #283618;
+}
+
+.header{
+    border: 8px solid #283618;
 }
 
 .post-image{
