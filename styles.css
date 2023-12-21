@@ -1,4 +1,5 @@
-h1, .recipe {
+h1,
+.recipe {
     margin-top: 0px;
     border-radius: 25px 25px 0px 0px;
 }
@@ -7,7 +8,7 @@ body {
     background-color: #dad198;
 }
 
-p{
+p {
     padding: 0px 10px;
 }
 
@@ -44,4 +45,8 @@ li {
     margin: auto;
     border: 5px solid #283618;
     border-radius: 5%;
+}
+
+.caption a{
+    text-decoration: none;
 }
